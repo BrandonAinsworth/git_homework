@@ -9,3 +9,7 @@ Strategies to Try:
 - The Pomodoro method seems practical for use during the Mod 0 project as to not get overwhelmed.
 
 - Scheduling time for wellness, it is easy for me to sit down and stare at the screen forever and I know I will use the project as a subconscious excuse to skip things like the gym and meditation which will be more helpful then ever during Turing.
+
+Shoutouts:
+
+Shoutout to Amy and Chelsea Stallings!🥳 They have been nothing but supportive in helping me smoothly navigate my transition to Turing!
