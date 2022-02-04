@@ -1,10 +1,10 @@
-Main Takeaways:
+Main Takeaways
 
 Session 1: Turing requires dedication and a well-thought out plan for success
 
 Session 2: Be honest with yourself, and make sure to give yourself everything that you need to be successful. Do not try to be perfect, nobody is!
 
-Strategies to Try:
+Strategies to Try
 
 - The Pomodoro method seems practical for use during the Mod 0 project as to not get overwhelmed.
 
@@ -14,4 +14,4 @@ Shoutouts:
 
 Shoutout to Amy and Chelsea Stallings!🥳 They have been nothing but supportive in helping me smoothly navigate my transition to Turing!
 
-Turing is the coolest and most inclusive school ever! 
+Turing is the coolest and most inclusive school ever!
