@@ -13,3 +13,5 @@ Strategies to Try:
 Shoutouts:
 
 Shoutout to Amy and Chelsea Stallings!🥳 They have been nothing but supportive in helping me smoothly navigate my transition to Turing!
+
+Turing is the coolest and most inclusive school ever! 
